@@ -21,11 +21,10 @@ keen to be a force for their development. I think there are many principles and 
 from other domains of knowledge that can be applied to computer system designs to help build more
 robust systems.
 
-I am steeped in the science and art of development and delivery of commercial, financial, operational
-IT and cybersecurity SaaS products. I have been designing and building software
-systems professionally for more than 10 years now. Some that succeeded and
-some that didn't, nonetheless there is always lessons learned for me and that's
-what I love the most about my job!
+I am steeped in the science and art of development, delivery and operational execution of commercial, financial
+and cybersecurity SaaS products. I have been designing such solutions and building software
+systems professionally for more than 10 years now. Some of them succeeded and some that didn't, nonetheless,
+I always found lots of hints and takeaways in the progress of building such systems.
 
 I have also used and studied many other systems, both successes and failures. I believe there is a lot of benefit
 in learning from others and in appreciation of this opportunity I have dedicated this weblog to share my stories
