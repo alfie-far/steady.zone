@@ -18,15 +18,21 @@ at the time of writing this!
 I love to see systems work in harmony at scale; just like how the universe works
 out its expansion plan. I admire simple ideas that demonstrate a potential for growth and
 keen to be a force for their development. I think there are many principles and disciplines
-from other domains of knowledge that can be applied to computer system designs to help build more
-robust systems.
+from other domains of knowledge that can be borrowed and applied to computer system designs
+to help build more robust systems.
 
-I am steeped in the science and art of development, delivery and operational execution of commercial, financial
-and cybersecurity SaaS products. I have been designing such solutions and building software
-systems professionally for more than 10 years now. Some of them succeeded and some that didn't, nonetheless,
-I always found lots of hints and takeaways in the progress of building such systems.
+I am steeped in the science and art of development, delivery and operational execution of SaaS products.
+The business context of these SaaS products changed over time but the ones that stand out prominently are: OLTP, marketing,
+financial and cybersecurity services. I have been designing such solutions and building software systems professionally
+for more than 10 years now. Some of them succeeded and some didn't, nonetheless, I always found lots of hints and
+takeaways in the progress of building such systems.
 
-I have also used and studied many other systems, both successes and failures. I believe there is a lot of benefit
+I have also worked with product development teams, individuals, stakeholders, marketing teams and customers  
+to understand their varied views of a solution or a product. This has made me realise the significance of
+establishing a shared context for the communication of these parties. This includes finding and delineating an organisation,
+a medium, applied practices and agreements between teams and individuals of such group.
+
+I have used and studied many other systems, both successes and failures. I believe there is a lot of benefit
 in learning from others and in appreciation of this opportunity I have dedicated this weblog to share my stories
 and experiences with all the community to be a small part of this culture of sharing.
 
@@ -38,3 +44,5 @@ and experiences with all the community to be a small part of this culture of sha
 - the riddle of security
 - linguistics, etymology and philology
 - ethics, anthropology and semiotics
+
+I spend most of my leisure times either participating in some outdoor activity like fishing or hiking, or staying in and listening to a good thriller novel or contemplating design of design and relations between diverse fields of designs over a drink.
