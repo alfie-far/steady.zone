@@ -45,4 +45,5 @@ and experiences with all the community to be a small part of this culture of sha
 - linguistics, etymology and philology
 - ethics, anthropology and semiotics
 
-I spend most of my leisure times either participating in some outdoor activity like fishing or hiking, or staying in and listening to a good thriller novel or contemplating design of design and relations between diverse fields of designs over a drink.
+I spend some of my leisure time contemplating design of design and relations between diverse fields of designs; if not that,
+then I'm probably getting myself busy with outdoor activities I like such as fishing or hiking, or staying in and listening to a good thriller, comedy podcast or an autobiography;
