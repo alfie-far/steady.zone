@@ -16,6 +16,11 @@ const { frontmatter } = Astro.props;
 ---
 
 <Layout title={`${frontmatter.title} | ${SITE.title}`}>
+  <style>
+    .prose > p {
+      text-align: justify
+    }
+   </style>
   <Header activeNav="about" />
   <Breadcrumbs />
   <main id="main-content">
@@ -26,10 +31,4 @@ const { frontmatter } = Astro.props;
   </main>
   <Footer />
 </Layout>
-
-<style>
-  .prose > p {
-    text-align: justify
-  }
- </style>
 
