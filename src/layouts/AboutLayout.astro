@@ -21,15 +21,17 @@ const { frontmatter } = Astro.props;
   <main id="main-content">
     <section id="about" class="prose mb-28 max-w-3xl prose-img:border-0">
       <h1 class="text-2xl tracking-wider sm:text-3xl">{frontmatter.title}</h1>
-      <slot />
+      <div class="content">
+        <slot />
+      </div>
     </section>
   </main>
   <Footer />
 </Layout>
 
 <style>
-  .prose > p {
-    text-align: justify
+  div.content > p {
+    text-align: justify;
   }
 </style>
 
