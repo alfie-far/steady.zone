@@ -27,10 +27,10 @@ financial and cybersecurity services. I have been designing such solutions and b
 for more than 10 years now. Some of them succeeded and some didn't, nonetheless, I always found lots of hints and
 takeaways in the progress of building such systems.
 
-I have also worked with product development teams, individuals, stakeholders, marketing teams and customers  
-to understand their varied views of a solution or a product. This has made me realise the significance of
-establishing a shared context for the communication of these parties. This includes finding and delineating an organisation,
-a medium, applied practices and agreements between teams and individuals of such group.
+I have also worked with product development teams, individuals, stakeholders, marketing teams and customers to understand
+their varied views of a solution or a product. This has made me realise the significance of establishing a shared context
+for the communication of these parties. This includes finding and delineating an organisation, a medium, applied practices
+and agreements between teams and individuals of such group.
 
 I have used and studied many other systems, both successes and failures. I believe there is a lot of benefit
 in learning from others and in appreciation of this opportunity I have dedicated this weblog to share my stories
