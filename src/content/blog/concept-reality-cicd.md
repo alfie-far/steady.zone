@@ -1,7 +1,7 @@
 ---
 author: Alfie Farron
 pubDatetime: 2024-01-22T00:00:00Z
-title: [DRAFT] From Concept to Reality How We Designed a CI/CD pipeline That Grows with Us
+title: From Concept to Reality How We Designed a CI/CD pipeline That Grows with Us
 postSlug: concept-reality-CICD-grow-pipeline-scalable
 featured: true
 draft: false
