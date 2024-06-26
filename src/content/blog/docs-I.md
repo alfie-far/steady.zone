@@ -73,6 +73,8 @@ After several trials and errors, I found a more streamlined approach using a com
 ## The Result
 The end result was a beautifully hosted API documentation site on [https://api-docs.quickclaim.io](https://api-docs.quickclaim.io). The site not only met our compliance requirements but also provided a much more efficient and user-friendly documentation experience. Impressively, this entire setup and migration process took less than 2 hours.
 
+![alt text](../../assets/images/api-docs-blog-photo.png "")
+
 ## Conclusion
 Migrating API documentation can be complex, but with the right tools and a bit of perseverance, it is definitely achievable. Using GitBook and APIDog proved to be a game-changer, turning a challenging project into a success story.
 
