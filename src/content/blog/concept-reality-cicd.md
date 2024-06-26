@@ -1,5 +1,5 @@
 ---
-author: Alfie Farron
+author: Alfie Farren
 pubDatetime: 2024-01-22T00:00:00Z
 title: From Concept to Reality How We Designed a CI/CD pipeline That Grows with Us
 postSlug: concept-reality-CICD-grow-pipeline-scalable

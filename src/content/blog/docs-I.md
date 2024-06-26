@@ -1,24 +1,23 @@
 ---
-title: A Successful Approach to Migrating your API Docs to GitBook
-date: 2024-06-26
 author: Alfie Farren
-postSlug: api-docs-GitBook-fast-pipeline-scalable
-pubDatetime: 2024-06-26
+pubDatetime: 2024-06-26T00:00:00Z
+title: A Successful Approach to Migrating your API Docs to GitBook
+postSlug: api-docs-gitBook-fast-pipeline-scalable
 featured: true
 draft: false
 tags:
-- Documentation
-- Protected
-- Hosted
-- Auth0
-- Github
-- Actions
-- AWS
-- Integration
-- Postman
-- ApiDog
-- GitBook
-  description:
+  - Documentation
+  - Protected
+  - Hosted
+  - Auth0
+  - Github
+  - Actions
+  - AWS
+  - Integration
+  - Postman
+  - ApiDog
+  - GitBook
+description:
   Apparently this is not quite straight forward without too much effort, firstly when Postman collections are converted to MD or MDX files a lot of compatibility issues and side-effects happen with CLI tools that are used to consume and turn them into static websites.
 ---
 
