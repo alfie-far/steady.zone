@@ -4,7 +4,7 @@ pubDatetime: 2024-07-06T00:00:00Z
 title: Revamp your Dev~Ops using GenAI
 postSlug: dev-ops-ai-assisted-process
 featured: true
-draft: true
+draft: false
 tags:
   - DevOps
   - AI
