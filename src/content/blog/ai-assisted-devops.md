@@ -1,7 +1,7 @@
 ---
 author: Alfie Farren
 pubDatetime: 2024-07-06T00:00:00Z
-title: Revamp your Dev~Ops using GenAI
+title: "[DRAFT] Revamp your Dev~Ops using GenAI"
 postSlug: dev-ops-ai-assisted-process
 featured: true
 draft: false
@@ -32,6 +32,8 @@ description: |-
 ---
 
 ![alt text](../../assets/images/ai-devops-intro.png "")
+
+;[DRAFT]
 
 ## Introduction
 The DevOps cycle represents a set of practices and processes that facilitate continuous delivery and integration 
