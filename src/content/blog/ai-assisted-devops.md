@@ -41,10 +41,11 @@ and enterprise integration patterns to ensure successful execution of the DevOps
 composed of numerous small groups, each contributing to one or more of the phases, ensuring a seamless transition between issues and responses 
 throughout the project lifecycle.
 
-Introducing an AI-assisted component into this cycle can further enhance efficiency and effectiveness. 
-Starting from the Monitor phase, AI can analyze vast amounts of operational data to identify patterns and predict potential issues before they occur. 
-In the Plan phase, AI can assist in forecasting project timelines and resource allocation. During the Code and Build phases, AI can suggest code 
-improvements, detect anomalies, and optimize build processes. In the Test phase, AI can automate and enhance testing procedures, ensuring higher 
-accuracy and faster feedback loops. As the cycle progresses to the Release and Deploy phases, AI can streamline release management and deployment 
-automation, reducing downtime and ensuring a smooth transition to production. This integration of AI into the DevOps cycle promises to 
-revolutionize the way teams operate, driving innovation and improving overall project outcomes.
+Introducing Generative AI to your DevOps cycle can offer several benefits and further enhance efficiency and effectiveness. 
+Starting from where it ends, in the Monitoring phase, your events, service loggs, alerts could be analysed to monitor performance, 
+detect anomalies, and predict/ report potential issues before they become critical. In the same sense, there are lots of AI powered tools 
+and services to assist your team during the Planning & Coding phase; for example your change management system or IDE acts as a great 
+source of truth for prioritisation and addressing of detected issues, making it a valuable resource for an assisted coding experience 
+that could help patching and fixing bugs at production faster.  In Build & Test phase, AI can automate and enhance testing procedures 
+to provide higher accuracy and faster feedback loops. Furthermore, your CICD pipeline should rely on autonamous code and release candidate reviews
+to bridge the gap between the release and deployment time.   
