@@ -33,7 +33,11 @@ description: |-
 
 ![alt text](../../assets/images/ai-devops-intro.png "")
 
-;[DRAFT]
+** Status: [DRAFT] **
+
+# Table of contents
+1. [Introduction](#Introduction)
+    1. [What is Generative AI] (#GenAIIntro)
 
 ## Introduction
 The DevOps cycle represents a set of practices and processes that facilitate continuous delivery and integration 
@@ -50,7 +54,7 @@ and enterprise integration patterns to ensure successful execution of the DevOps
 composed of numerous small groups, each contributing to one or more of the phases, ensuring a seamless transition between issues and responses 
 throughout the project lifecycle.
 
-### What is Generative AI
+### What is Generative AI <a name="GenAIIntro"></a>
 Historically, AI was used to understand and recommend information. Now, generative AI can also help us create new content. 
 Generative AI refers to deep-learning models that can generate high-quality text, code, images, and other content based on 
 the data they were trained on. Generative AI builds on existing technologies, like large language models (LLMs) which are 
