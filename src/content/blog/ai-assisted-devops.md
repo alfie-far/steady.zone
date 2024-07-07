@@ -42,7 +42,7 @@ composed of numerous small groups, each contributing to one or more of the phase
 throughout the project lifecycle.
 
 Introducing Generative AI to your DevOps cycle can offer several benefits and further enhance efficiency and effectiveness. 
-Starting from where it ends, in the Monitoring phase, your events, service loggs, alerts could be analysed to monitor performance, 
+Starting from where it ends, in the Monitoring phase, your events, service logs, alerts could be analysed to monitor performance, 
 detect anomalies, and predict/ report potential issues before they become critical. In the same sense, there are lots of AI powered tools 
 and services to assist your team during the Planning & Coding phase; for example your change management system or IDE acts as a great 
 source of truth for prioritisation and addressing of detected issues, making it a valuable resource for an assisted coding experience 
