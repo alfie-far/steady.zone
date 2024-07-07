@@ -33,11 +33,15 @@ description: |-
 
 ![alt text](../../assets/images/ai-devops-intro.png "")
 
-** Status: [DRAFT] **
+**Status: [DRAFT]**
 
-# Table of contents
+### Table of contents
 1. [Introduction](#Introduction)
     1. [What is Generative AI] (#GenAIIntro)
+
+
+--------------------------------------------------------
+
 
 ## Introduction
 The DevOps cycle represents a set of practices and processes that facilitate continuous delivery and integration 
