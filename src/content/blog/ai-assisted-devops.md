@@ -78,3 +78,4 @@ deployment time.
 
 ## Smart Workload Insights
 Smart Workload Insights
+![alt text](../../assets/images/smart-insights-intro.png "")
