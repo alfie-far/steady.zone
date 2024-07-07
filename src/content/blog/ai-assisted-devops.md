@@ -36,16 +36,17 @@ The new versions are then tested rigorously to ensure quality before the softwar
 Once deployed, the software is operated and continuously monitored to maintain performance and address any issues or unexpected failures.
 This iterative process promotes agility, collaboration, and rapid delivery of high-quality software systems.
 
-In recent years, a significant amount of research and development has focused on defining methodologies, team topologies, 
+In recent years, a significant amount of research and development has been focused on defining methodologies, team topologies, 
 and enterprise integration patterns to ensure successful execution of the DevOps cycle within product teams. These teams are typically 
 composed of numerous small groups, each contributing to one or more of the phases, ensuring a seamless transition between issues and responses 
 throughout the project lifecycle.
 
-Introducing Generative AI to your DevOps cycle can offer several benefits and further enhance efficiency and effectiveness. 
-Starting from where it ends, in the Monitoring phase, your events, service logs, alerts could be analysed to monitor performance, 
-detect anomalies, and predict/ report potential issues before they become critical. In the same sense, there are lots of AI powered tools 
-and services to assist your team during the Planning & Coding phase; for example your change management system or IDE acts as a great 
-source of truth for prioritisation and addressing of detected issues, making it a valuable resource for an assisted coding experience 
-that could help patching and fixing bugs at production faster.  In Build & Test phase, AI can automate and enhance testing procedures 
-to provide higher accuracy and faster feedback loops. Furthermore, your CICD pipeline should rely on autonamous code and release candidate reviews
-to bridge the gap between the release and deployment time.   
+Introducing Generative AI to your DevOps cycle can offer several benefits and further enhancements to your process. 
+Starting from where it ends, in the Monitoring phase, your events, service logs and alerts could be analysed to monitor performance, 
+detect anomalies, and report potential issues before they become critical. In the same sense, there are lots of AI powered services 
+to assist your team during the Planning & Coding phase; for example if your change management system is integrated with these tools, 
+they will be able to read, understand and propose possible changes/ solutions to the raised issues inside bug tickets. The assisted coding 
+experience is also another valuable resource which could help patching and fixing bugs at production faster. In Build & Test phase, 
+generative AI or trained models can automate and enhance testing procedures to provide higher accuracy and faster feedback loops. 
+Furthermore, your CICD pipeline should rely on autonamous agents to review release candidates and bridge the gap between the release and 
+deployment time.   
