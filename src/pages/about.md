@@ -12,7 +12,7 @@ I've probably forgotten a few more here but at least these are the ones that I c
 at the time of writing this!
 
 <div>
-  <img src="/assets/extend/me.jpg" class="sm:w-1/2 mx-auto" alt="Alfie Portray">
+  <img src="/assets/extend/me.jpg" class="sm:w-1/2 mx-auto h-auto max-w rounded shadow dark:shadow-gray-800" alt="Alfie Portray">
 </div>
 
 I love to see systems work in harmony at scale; just like how the universe works
