@@ -80,15 +80,14 @@ deployment time.
 
 ![alt text](../../assets/images/smart-insights-intro.png "")
 
-In today's dynamic IT environments, monitoring server logs, alerts, and events is crucial for maintaining system health and ensuring smooth operations. By leveraging AI-driven tools, you can enhance your monitoring capabilities to detect errors, analyze patterns, and automate responses. A simiplified model to achive this goal has been described in this post and we're going to walk through some implemenation hints to build this automation for efficient incident management
+In today's dynamic IT environments, monitoring your logs and events is a crucial step for maintaining system health and ensuring smooth operations. A guided and AI-driven flow can enhance your monitoring capabilities to analyse errors, extrapolate patterns, and automate the process of responding to potential bugs. In this post, I will use a simplified and high level model of an application, to demonstrate how you can accomplish this idea in your platform. I will provide some context, an overview of the abstract stages in the process and will share some implementation hints to highlight the key points of the process.
 
 #### Overview
-
-The process involves four key stages:
-1. **Operate**: Collecting and aggregating logs, alerts, and events.
+The process involves four key component:
+1. **Operate**: Collecting and aggregating logs, traces, alerts, events etc.
 2. **Monitor**: Streaming data for real-time analysis.
 3. **Analyze**: Utilizing AI to detect anomalies and perform assisted analysis.
-4. **Automate**: Executing automated responses based on predefined runbooks.
+4. **Automate**: Executing guided responses based on predefined runbooks and generative AI.
 
 #### Components
 
