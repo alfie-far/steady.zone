@@ -69,7 +69,7 @@ more likely to be followed by "jelly" than "shoelace".
 > -- <cite>Reference: Google Gimini</cite>
 
 
-Introducing Generative AI to your DevOps cycle can offer several benefits and further enhancements to your process. 
+Introducing Generative AI into your DevOps cycle can offer several benefits and further enhancements to your process. 
 Starting from where it ends, in the Monitoring phase, your events, service logs and alerts could be analysed to monitor performance, 
 detect anomalies, and report potential issues before they become critical. In the same sense, there are lots of AI powered services 
 to assist your team during the Planning & Coding phases; for example if your change management system is integrated with these tools, 
@@ -79,11 +79,11 @@ generative AI or trained models can automate and enhance testing procedures to p
 Furthermore, your CICD pipeline should rely on autonamous agents to review release candidates and bridge the gap between the release and 
 deployment time. 
 
-## Intelligence from Workload Insights
+## From Workload Insights To Intelligence
 
 ![alt text](../../assets/images/smart-insights-intro.png "Figure 2")
 
-In today's dynamic IT environments, monitoring your operational parameters is a crucial step for maintaining system health and ensuring a stable status for your workloads. Having an AI-driven method to meet this objective can greatly expand your monitoring capacity. This is possible because this approach allows you to analyse your system logs and unexpected failures in a scalable way. And by doing so you could open new doors to a range of new possibilities namely your root cause analysis (RCA), identification of common errors in your application, a self-operating process that responds to your runtime changes, etc. In this post, I will use a simplified and high level definition (as shown in Figure 2) as the example application model and then demonstrate how we can accomplish this goal in the given example. I will provide some context and will give you an overview of the abstract stages of the whole process so that you can easily map the steps to your preferred setup and customise it to fit your needs. I will also share some implementation hints, mention a few things that you could avoid and finally, I will highlight the key points of the process and their relationship so that you could read further about them in various sources.
+In today's dynamic IT environments, monitoring your operational parameters is a crucial step for maintaining system health and ensuring a stable workload status. Having an AI-driven method to meet this objective can greatly expand your monitoring capacity. This is possible because this approach allows you to analyse your system logs and unexpected failures in a scalable way. And by following this approach, you could open new doors to a range of new possibilities, namely faster RCA (Root Cause Analysis), identification of common errors and there causes, a self-operating process to respond to your runtime changes, etc. In this post, I will use a simplified and high level definition (as shown in Figure 2) as the example application model and then demonstrate how we can accomplish this goal in the given example. I will provide some context and will give you an overview of the abstract stages of the whole process so that you can easily map the steps to your preferred setup and customise it to fit your needs. I will also share some implementation hints, mention a few things that you could avoid and finally, I will highlight the key points of the process and their relationship so that you could read further about them in various sources.
 
 #### Overview
 Th process involves four key stages:
