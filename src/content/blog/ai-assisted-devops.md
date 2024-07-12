@@ -80,15 +80,18 @@ deployment time.
 
 ![alt text](../../assets/images/smart-insights-intro.png "")
 
-In today's dynamic IT environments, monitoring your logs and events is a crucial step for maintaining system health and ensuring smooth operations. A guided and AI-driven flow can enhance your monitoring capabilities to analyse errors, extrapolate patterns, and automate the process of responding to potential bugs. In this post, I will use a simplified and high level model of an application, to demonstrate how you can accomplish this idea in your platform. I will provide some context, an overview of the abstract stages in the process and will share some implementation hints to highlight the key points of the process.
+In today's dynamic IT environments, monitoring your operational parameters is a crucial step for maintaining system health and ensuring a well balanced state in your logical processes. An AI-driven flow which is guided by your playbooks can expand your monitoring capacity to analyse errors or unexpected events in more detail at large scale. This would open new doors to a range of new possibilities namely a head start in your root cause analysis, a better identification of common errors in your application, a self-operating process to respond to your bugs, etc. In this post, I will use a simplified and high level model as our example application and demonstrate how we can accomplish this goal in the given example. I will provide some context, give you an overview of the abstract stages of this process so that you can easily map the steps to your setup and customise it to fit your perfect criteria. I will also share some implementation hints, mention a few things that you could avoid and finally, I will highlight the key points of the process and their relationship so that you could read further about them in various sources.
 
 #### Overview
-The process involves four key component:
+Th process involves four key stages:
 1. **Operate**: Collecting and aggregating logs, traces, alerts, events etc.
 2. **Monitor**: Streaming data for real-time analysis.
 3. **Analyze**: Utilizing AI to detect anomalies and perform assisted analysis.
-4. **Automate**: Executing guided responses based on predefined runbooks and generative AI.
+4. **Automate**: Executing guided responses based on predefined playbooks and generative AI.
 
+
+----------------------------------------------------------------------------------------
+_[Contd]_
 #### Components
 
 1. **Data Sources**:
