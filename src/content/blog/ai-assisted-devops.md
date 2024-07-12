@@ -60,11 +60,14 @@ composed of numerous small groups, each contributing to one or more of the phase
 throughout the project lifecycle.
 
 ### What is Generative AI
-Historically, AI was used to understand and recommend information. Now, generative AI can also help us create new content. 
+>Historically, AI was used to understand and recommend information. Now, generative AI can also help us create new content. 
 Generative AI refers to deep-learning models that can generate high-quality text, code, images, and other content based on 
 the data they were trained on. Generative AI builds on existing technologies, like large language models (LLMs) which are 
 trained on large amounts of text and learn to predict the next word in a sentence. For example, "peanut butter and ___" is 
 more likely to be followed by "jelly" than "shoelace".
+> --
+> -- <cite>Reference: Google Gimini</cite>
+
 
 Introducing Generative AI to your DevOps cycle can offer several benefits and further enhancements to your process. 
 Starting from where it ends, in the Monitoring phase, your events, service logs and alerts could be analysed to monitor performance, 
