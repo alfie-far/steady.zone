@@ -1,7 +1,7 @@
 ---
 author: Alfie Farren
 pubDatetime: 2024-07-06T00:00:00Z
-title: "[DRAFT] Revamp your Dev~Ops using GenAI"
+title: "[DRAFT] From security posture management, application error detection and correction, to autopilot bug resolutions and patching with automata; Revamp your Dev~Ops with Generative AI"
 postSlug: dev-ops-ai-assisted-process
 featured: true
 draft: false
@@ -60,6 +60,7 @@ composed of numerous small groups, each contributing to one or more of the phase
 throughout the project lifecycle.
 
 ### What is Generative AI
+
 >Historically, AI was used to understand and recommend information. Now, generative AI can also help us create new content. 
 Generative AI refers to deep-learning models that can generate high-quality text, code, images, and other content based on 
 the data they were trained on. Generative AI builds on existing technologies, like large language models (LLMs) which are 
