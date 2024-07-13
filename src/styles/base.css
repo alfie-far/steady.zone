@@ -127,7 +127,12 @@
   pre > code {
     white-space: pre;
   }
+
+  blockquote > h2 {
+    font-size: 1em !important
+  }
 }
+
 
 @layer components {
   .display-none {
