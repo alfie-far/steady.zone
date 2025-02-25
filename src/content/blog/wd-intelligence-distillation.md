@@ -39,3 +39,6 @@ Now imagine intelligence as a moving body; never still, always refining, always 
 intelligence isn’t just about gathering information. It’s about letting some of it go away. We tend to think of intelligence as accumulation—the more we know, the better we think. But real 
 intelligence works differently. It moves forward by forgetting, by distilling, by deleting what no longer serves a purpose. 
 This isn’t just true for human thought—it’s a universal pattern, echoed in the very structure of reality.
+
+
+
