@@ -52,11 +52,9 @@ Our mind, like the universe, isn’t a storage unit; it’s a navigation system.
 
 
 ## See More Clearly
-A few months ago I was listening to a Lex Fridman podcast about X Neuralink and he was asking Elon Musk about the metrics they have been designing for their link and how they make the better. It was fascinating to hear
-how much important the communication speed is for a successful integration. Increasing the communication speed involves changing multiple factors, you could increase the bandwidth, decrease latency or apply both changes. You might be able to create a better encoding system to transfer data more efficiently and so data compression is another approach towards optimising the communications. However, regardless of the different approaches we take to 
-solve the speed issue, it is no secret the length and organisation of information plays a pivotal role in the end to end outcome.
+A few months ago I was listening to a Lex Fridman podcast about X Neuralink and he was asking Elon Musk about the metrics him and his team have been designing for their new products and how would they measure their success? It was fascinating to hear how crucial fast communication is for a smooth integration. Increasing the communication speed involves changing multiple factors, you could increase the bandwidth, decrease latency or apply both of these changes. You might be able to create a better encoding system to transfer data more efficiently and so data compression is another approach towards optimising the communication pattern. However, regardless of the different approaches we'd take to solve the speed issue, it is no secret the length and organisation of information plays a pivotal role in the end to end outcome.
 
-Some of the sharpest thinkers scientists, writers, philosophers don’t just accumulate knowledge. They refine it. They delete what’s unnecessary so they can see patterns more clearly.
+Some of the sharpest thinker scientists, writers, philosophers don’t just accumulate knowledge. They refine it. They delete what’s unnecessary so they can see patterns more clearly.
 A great writer doesn’t write by adding more words; they cut away what doesn’t serve the story. A great scientist doesn’t just collect data—they eliminate bad hypotheses to focus on real discoveries. The same applies to intelligence at every level, from the way our brains work to the way civilizations evolve.
 
 
