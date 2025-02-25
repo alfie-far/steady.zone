@@ -48,12 +48,32 @@ Imagine walking into a library where every book ever written is piled in a giant
 
 That’s what social media and the internet have done to our minds. We’re bombarded with more information than we could ever process, but most of it are noise and misleading headlines, half-baked opinions around debunked ideas, outraged click baits, and irrelevant facts disguised as knowledge. The more we hold onto it, the harder it becomes to think clearly and able to make good judgments.
 
+Our mind, like the universe, isn’t a storage unit; it’s a navigation system. Holding onto too much; whether it’s irrelevant memories, outdated beliefs, or digital clutter, only slows down our ability to move through the unknown. In that sense, forgetting isn’t failure. It’s an act of survival by making a subtle substitution and adjustments.
 
 
+## See More Clearly
+A few months ago I was listening to a Lex Fridman podcast about X Neuralink and he was asking Elon Musk about the metrics they have been designing for their link and how they make the better. It was fascinating to hear
+how much important the communication speed is for a successful integration. Increasing the communication speed involves changing multiple factors, you could increase the bandwidth, decrease latency or apply both changes. You might be able to create a better encoding system to transfer data more efficiently and so data compression is another approach towards optimising the communications. However, regardless of the different approaches we take to 
+solve the speed issue, it is no secret the length and organisation of information plays a pivotal role in the end to end outcome.
+
+Some of the sharpest thinkers scientists, writers, philosophers don’t just accumulate knowledge. They refine it. They delete what’s unnecessary so they can see patterns more clearly.
+A great writer doesn’t write by adding more words; they cut away what doesn’t serve the story. A great scientist doesn’t just collect data—they eliminate bad hypotheses to focus on real discoveries. The same applies to intelligence at every level, from the way our brains work to the way civilizations evolve.
+
+
+
+### How to Delete More and Think Better
+- Question everything you consume. If an article, video, or social post makes you feel outraged or urgent, pause. Is it adding value, or is it manipulating your attention?
+- Unfollow, mute, and declutter. A clean digital space means a clean mind. If you wouldn’t let someone shout nonsense in your house, why let them live in your head?
+- Forget what doesn’t serve you. Just because you learned something once doesn’t mean it’s still useful. Let go of outdated opinions, bad advice, and irrelevant knowledge.
+- Embrace uncertainty. Deleting bad information doesn’t mean you’ll have perfect answers. It just means you’re clearing space for better thinking.
+
+
+
+## The Intelligence of Letting Go
 
 We see patterns everywhere, but do they belong to the universe, or to the lens through which we perceive it? The recurrence of structure—gravity shaping orbits, DNA shaping life, intelligence shaping itself—feels like a grand design, but perhaps it is only our own architecture staring back at us. A cosmic mirage. A reflection of the way we are built to make sense of things.
 
-Maybe everything is an art form. Maybe intelligence itself is not about accumulating knowledge, but about sculpting it—chiseling away the excess, leaving behind only what is necessary to move forward. A celestial body rotates, an artist paints, a mind remembers, a mind forgets. Each motion is a step in an ongoing distillation, a constant negotiation between permanence and impermanence.
+Maybe everything is an art form. Maybe intelligence itself is not about accumulating knowledge, but about sculpting it and stripping away the excess, leaving behind only what is necessary to move forward. A celestial body rotates, an artist paints, a mind remembers, a mind forgets. Each motion is a step in an ongoing distillation, a constant negotiation between permanence and impermanence.
 
 In the end, what remains? The footprints, or the path taken?
 
