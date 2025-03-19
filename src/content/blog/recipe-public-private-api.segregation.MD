@@ -17,7 +17,7 @@ tags:
   - Control
 
 description: |-
-	In microservices architectures, teams often build and manage internal services and want to make them available as private API endpoints and at the 	same time there are endpionts publicly expose those endpoints through a centralized API gateway where security protections are centrally managed. 	These API endpoints allow both internal and external users to leverage the functionality of those applications.
+  In microservices architectures, teams often build and manage internal services and want to make them available as private API endpoints and at the same      time there are endpionts publicly expose those endpoints through a centralized API gateway where security protections are centrally managed. These API       endpoints allow both internal and external users to leverage the functionality of those applications.
 ---
 
 # 1. Introduction
