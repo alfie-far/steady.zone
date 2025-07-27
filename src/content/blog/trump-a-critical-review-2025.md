@@ -15,11 +15,9 @@ tags:
   - IdeologyAndPower
   - Nationalism
   - CivicNegligence
-  - PublicConsciousness
+  - PublicConsciousness   
 description: |-
-
-In a world unraveling at its seams, where civilians are shot dead for queuing up for bread in Gaza and the entire cities in Ukraine are flattened under the illusion of ceasefire diplomacy, one man still believes that performative posturing is a strategy.
-    
+  In a world unraveling at its seams, where civilians are shot dead for queuing up for bread in Gaza and the entire cities in Ukraine are flattened under the illusion of ceasefire diplomacy, one man still believes that performative posturing is a strategy.
 ---
 
 
