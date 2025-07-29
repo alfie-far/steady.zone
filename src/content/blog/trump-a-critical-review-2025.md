@@ -22,7 +22,7 @@ description: |-
 
 ### Introduction
 
->Donald Trump’s re-emergence isn’t an aberration, but rather a consequence. His recent foreign policy posturing and nationalist rhetoric reflect a deeper, systemic failure which stems from the erosion of democratic vigilance, both among political elites and the general public. When citizens are demoralised and disengaged, institutions can easily normalise extremism; and once it is done the door is left wide open for banality to breed danger — again.
+>Donald Trump’s re-emergence isn’t an aberration, but rather a consequence. His recent foreign policy posturing and nationalist rhetoric reflect a deeper, systemic failure which stems from the erosion of democratic vigilance, both among political elites and the general public. When citizens are demoralised and disengaged, institutions can easily normalise extremism; and once that's done, the door is left wide open for banality to breed danger — again!
 
 
 In a world unraveling at its seams, where civilians are shot dead for queuing up for bread in Gaza and the entire cities in Ukraine are flattened under the illusion of ceasefire diplomacy, one man still believes that performative posturing is a strategy.
@@ -46,12 +46,12 @@ Even the “Big Beautiful Wall” — that concrete metaphor for oversimplified 
 >In the face of rising debt and a looming downturn, Trump isn’t offering policy. He’s offering theater — explosive, divisive, and dangerously effective. It’s the politics of distraction: keep the people angry, keep the markets guessing, and keep the blame flowing anywhere but up.
 
 ### The Soft Soil Where Authoritarianism Grows
->Like evil authoritarianism takes many forms; it doesn’t need a marching band, nor does it need to arrive in jackboots or behind tanks. Sometimes it wears a suit, cracks a joke, and promises to “get things done. sometimes in 2 weeks!” But it only takes root when the ground is fertile — and that ground is us.
+>Like evil authoritarianism takes many forms; it doesn’t need a marching band, nor does it need to arrive in jackboots or behind tanks. Sometimes it wears a suit, cracks a joke, and promises to “get things done. sometimes in 2 weeks!” But it only takes root when the ground is fertile — and that ground is us!
 
 Over the past decade, I’ve seen a slow erosion of civic vigilance. This is not something that would happen by accident, rather it is fueled by the shadows of negligence and sustained via an astonishing lack of discernment. It looks like this:
 
 - **Shrugging at the news** Another scandal, another outrageous quote, another executive power grab; and yet, we scroll past it as if it's just noise. Our capacity for outrage has been numbed by volume.
-- **Equating complexity with bias** When everything nuanced is labeled “political” or “woke,” we retreat into the comfort of one-liners and memes. We start treating critical thinking as exhausting, and settle for simple statements and certainty — even when it’s wrong. But _reality_ is not something that could be summarised in a list of simple facts.
+- **Equating complexity with bias** When everything nuanced is labeled “political” or “woke,” we retreat into the comfort of one-liners and memes. We start treating critical thinking as exhausting, and settle for simple statements and certainty — even when it’s wrong. But _reality_ is not something that could be summarised in a collection of simple facts.
 - **False equivalence** “All politicians are the same.” “Both sides are corrupt.” That kind of lazy cynicism pretends to be wise, but it’s just an excuse to disengage. There’s a difference between flawed governance and outright destabilization.
 - **Performative politics** Sharing a hashtag, posting a black square, performing outrage online — but never showing up offline. Not voting. Not reading. Not talking. Not holding anyone accountable
 - **Worshiping disruption as a virtue** Somewhere along the line, we started mistaking chaos for courage and greatness. If someone “shakes things up,” we cheer and make loud noise even when what they’re shaking is the foundation like abolishing institutions that are supposed to be utilised against dictatorship. 
