@@ -60,4 +60,18 @@ Over the past decade, I’ve seen a slow erosion of civic vigilance. This is not
 
 The institutions didn’t fail us overnight. They cracked slowly, under the pressure of performative neutrality, profit-driven media, and our collective choice to look away. We don’t lose democracies overnight. We wear them down with fatigue, reduce them to hashtags, and then act surprised when something darker steps in. We laughed when we should have listened. We moved on when we should have dug in.
 
+
+
+### The Warning in Plain Sight
+
+>This isn’t about Donald Trump — not anymore. He is what happens when a democracy starts outsourcing its memory, its outrage, and its moral responsibility. He is a consequence, not a cause.
+
+We’ve seen this story before: rising debt, shrinking empathy, manufactured enemies, and a populace too overwhelmed or too comfortable to care. It’s not that evil hides — it’s that we stop recognizing it when it smiles, when it waves a flag, when it promises to restore what was never truly lost.
+
+History doesn’t always announce itself. Sometimes it walks in the front door while we’re refreshing the news feed. And by the time we’re ready to respond, the damage is already done — not because we were tricked, but because we were tired.
+
+>“The sad truth,” Arendt once wrote, “is that most evil is done by people who never make up their minds to be either good or evil.”
+
+If that sounds familiar, it should. We are living through the sequel, and once again, the audience is asleep! I hope you enjoyed reading this piece, it was born out of an urge to express my thoughts & concerns about the world's current affairs.        
+
 ------------------------------------------------
