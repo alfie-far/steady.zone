@@ -51,9 +51,13 @@ Even the “Big Beautiful Wall” — that concrete metaphor for oversimplified 
 Over the past decade, I’ve seen a slow erosion of civic vigilance. This is not something that would happen by accident, rather it is fueled by the shadows of negligence and sustained via an astonishing lack of discernment. It looks like this:
 
 - **Shrugging at the news** Another scandal, another outrageous quote, another executive power grab; and yet, we scroll past it as if it's just noise. Our capacity for outrage has been numbed by volume.
-- **Equating complexity with bias** When everything nuanced is labeled “political” or “woke,” we retreat into the comfort of one-liners and memes. We start treating critical thinking as exhausting, and settle for simple statements and certainty — even when it’s wrong. But _reality_ is not something that could be summarised in a list of simple facts. 
+- **Equating complexity with bias** When everything nuanced is labeled “political” or “woke,” we retreat into the comfort of one-liners and memes. We start treating critical thinking as exhausting, and settle for simple statements and certainty — even when it’s wrong. But _reality_ is not something that could be summarised in a list of simple facts.
+- **False equivalence** “All politicians are the same.” “Both sides are corrupt.” That kind of lazy cynicism pretends to be wise, but it’s just an excuse to disengage. There’s a difference between flawed governance and outright destabilization.
+- **Performative politics** Sharing a hashtag, posting a black square, performing outrage online — but never showing up offline. Not voting. Not reading. Not talking. Not holding anyone accountable
+- **Worshiping disruption as a virtue** Somewhere along the line, we started mistaking chaos for courage and greatness. If someone “shakes things up,” we cheer and make loud noise even when what they’re shaking is the foundation like abolishing institutions that are supposed to be utilised against dictatorship. 
 
+>These are the behaviors that allowed Trump and figures like him across the globe to rise, fall, and rise again. Not because they were strong, but because we got tired. And tired democracies are suseptible to infections from those who want to take over and control the majority.
 
- Underlying Patterns of Behavior
+The institutions didn’t fail us overnight. They cracked slowly, under the pressure of performative neutrality, profit-driven media, and our collective choice to look away. We laughed when we should have listened. We moved on when we should have dug in.
 
 ------------------------------------------------
