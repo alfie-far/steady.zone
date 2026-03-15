@@ -57,7 +57,7 @@ In the black reflection behind the anchor feed, someone seemed to be standing at
 
 Not there exactly. Suggested.
 
-A cuff in one pane, a shoulder where two screens met, the edge of a cheekbone in the dark seam of the glass. Tomas, two stations over, reached for his coffee and the figure seemed to acquire a wrist. The bookings desk asked whether the retired colonel could stay through the sponsor break, and a line of teeth flashed for an instant in the teleprompter reflection. Standards sent down a note about avoiding graphic phrasing. The figure took a throat.
+A cuff in one pane, a shoulder where two screens met, the edge of a cheekbone in the dark seam of the glass. Thomas, two stations over, reached for his coffee and the figure seemed to acquire a wrist. The bookings desk asked whether the retired colonel could stay through the sponsor break, and a line of teeth flashed for an instant in the teleprompter reflection. Standards sent down a note about avoiding graphic phrasing. The figure took a throat.
 
 At 04:31 the terminology note updated.
 
