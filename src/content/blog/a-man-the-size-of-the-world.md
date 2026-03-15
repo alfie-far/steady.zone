@@ -21,6 +21,11 @@ description: |-
     
 ---
 
+>As the generations pass they grow worse. A time will come when they have grown so wicked that they will worship power; might will be right to them and reverence for the good will cease to be. At last, when no man is angry anymore at wrongdoing for feels shame in presence of the miserable, Zeus will destroy them too. And yet even then something might be done, if only the common people would rise and put down rulers that oppress them. 
+> --
+> -- <cite>Reference: Greek myth on the Iron Age</cite>
+
+
 
 # A Man the Size of the Earth
 
