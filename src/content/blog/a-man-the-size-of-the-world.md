@@ -77,6 +77,10 @@ At 04:31 the terminology note updated.
 
 Favor, as though choosing upholstery.
 
+>“The idea that humans can reshape the world according to their wishes is a secular version of the Christian hope for salvation.”
+> --
+> -- <cite>Reference: John Gray</cite>
+
 Raw clips were beginning to leak online. Headlights in a strip of dark. Men running. One brief white wound in the frame. The verification desk marked the footage *disputed*, *unconfirmed*, *potentially misleading*. None of that was false. It was only the hour’s preferred arrangement of caution. Elsewhere, the market desk spoke of nerves. An advertiser asked for adjacency guidance on “high-attention geopolitical coverage.” Makeup sent down for more concealer.
 
 The room did not quicken or slow. It merely found the speed at which catastrophe becomes programming.
