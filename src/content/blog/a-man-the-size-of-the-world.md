@@ -26,6 +26,11 @@ description: |-
 > -- <cite>Reference: Greek myth on the Iron Age</cite>
 
 
+>“I wish I were not among the men of the fifth generation, but had died before or been born later. For now truly is a race of iron… Men will dishonor parents, guest and friend; the just and the good will be scorned; might will be right, and shame will vanish.”
+> --
+> -- <cite>— Hesiod, Works and Days (Iron Age)</cite>
+
+------------------------------------------------------------------------------------------------
 
 # A Man the Size of the Earth
 
