@@ -17,3 +17,5 @@ description: |-
 >production line
 > --
 > -- <cite></cite>
+
+![alt text](../../assets/images/production-line-highlevel.png "")
